@@ -42,28 +42,423 @@ C = Classroom session
 R = Open rehearsal  
 E = Forum/concert event
 
-| SES # | INSTRUCTORS | TOPICS | KEY DATES |
-| --- | --- | --- | --- |
-| {{< td-colspan 4 >}}**Week #1**{{< /td-colspan >}} ||||
-| C1 | Martin Marks | Overview, getting acquainted, the syllabus, concerts, student projects | &nbsp; |
-| C2 | Marcus Thompson | Class discussion | Student projects organized |
-| R1 | &nbsp; | Open rehearsals for concert 1 | &nbsp; |
-| E1 | &nbsp; | {{< h 3 >}}Forum 1: Time as shape{{< /h >}} {{< br >}}{{< br >}} Michael Cuthbert (musicology, moderator) {{< br >}}{{< br >}} Robert Jaffe (physics) {{< br >}}{{< br >}} Libby Larson (composer) {{< br >}}{{< br >}} Sara Brown (scenic design) {{< br >}}{{< br >}} {{< h 3 >}}Concert 1{{< /h >}} {{< br >}}{{< br >}} Andrew Imbrie, _serenade for flute, viola, and piano_ {{< br >}}{{< br >}} Libby Larsen, _Black Birds, Red Hills_ {{< br >}}{{< br >}} George Crumb, E_leven Echoes of Autumn_ {{< br >}}{{< br >}} Maurice Ravel, _Piano Trio in A Minor_ {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 4 >}}**Week #2**{{< /td-colspan >}} ||||
-| C3 | Michael Cuthbert (Professor of Music) | Repeating time: minimalism and the structure of Reich's _Four Organs_ | Written reponses to forum & concert 1 due |
-| C4 | Paul Schechter (Professor of Astrophysics) | A physicist's understanding of the concept of spacetime | Project proposals due |
-| C5 | Michael Ouellette (Lecturer in Theater Arts) | On Michael Frayn's _Copenhagen_ | &nbsp; |
-| C6 | Donald Sadoway (Professor of Materials Science and Engineering) | 'Everything I needed to know I learned in 3.091' (using art, literature, music, and film to teach chemistry) | &nbsp; |
-| R2 | &nbsp; | Open rehearsals for concert 2 | &nbsp; |
-| E2 | &nbsp; | {{< h 3 >}}Forum 2: Time as Memory{{< /h >}} {{< br >}}{{< br >}} Bruce Brubaker (piano/contemporary music) {{< br >}}{{< br >}} Peter Child (composition, moderator) {{< br >}}{{< br >}} Deborah Stein (music theory) {{< br >}}{{< br >}} {{< h 3 >}}Concert 2{{< /h >}} {{< br >}}{{< br >}} Ludwig van Beethoven, _String Trio in E-flat Major_, Op. 5 {{< br >}}{{< br >}} Peter Child, _Skyscraper Symphony_ {{< br >}}{{< br >}} Antonín Dvořák, _String Quartet in E-flat Major_, _Op. 97, "The American"_ {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 4 >}}**Week #3**{{< /td-colspan >}} ||||
-| C7 | George Ruckert (Senior Lecturer in Music) | Measuring time: meters, cycles, and patterns in Hindustani music | Written reponses to forum & concert 2 due |
-| C8 | Christopher Ariza (Visiting Professor of Music) | Events per unit of time: density as a compositional parameter in the music and synthesis techniques of Iannis Xenakis | &nbsp; |
-| C9 | Stephen Tapscott (Professor of Literature) |  {{< br >}}{{< br >}} Deeper into Muybridge: a poet's view {{< br >}}{{< br >}}  | &nbsp; |
-| R3 | &nbsp; | Open rehearsal for concert 3 | &nbsp; |
-| E3 | &nbsp; | {{< h 3 >}}Forum 3: Time as the Subject and Substance{{< /h >}} {{< br >}}{{< br >}} Ellen Harris (musicology, moderator) {{< br >}}{{< br >}} Lewis Lockwood (musicology) {{< br >}}{{< br >}} Paul Matisse (sculptor) {{< br >}}{{< br >}} Stephen Tapscott (poet) {{< br >}}{{< br >}} {{< h 3 >}}Concert 3{{< /h >}} {{< br >}}{{< br >}} W. A. Mozart, _Oboe Quartet in F Major, K. 370_ {{< br >}}{{< br >}} Charles Loeffler, _Two Rhapsodies for Oboe, Viola, and Piano_ {{< br >}}{{< br >}} William Grant Still, _suite for violin and piano_ {{< br >}}{{< br >}} Lukas Foss, T_ime Cycle_ {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 4 >}}**Week #4**{{< /td-colspan >}} ||||
-| C10 |  {{< br >}}{{< br >}} Charles Shadle {{< br >}}{{< br >}} (Senior Lecturer in {{< br >}}{{< br >}} Music) {{< br >}}{{< br >}}  | Time and structure in a film score for D. W. Griffith's _Ramona_ (1910) | Written reponses to forum & concert 3 due |
-| C11 |  {{< br >}}{{< br >}} Mark Harvey {{< br >}}{{< br >}} (Lecturer in Music) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} In the moment: jazz time and improvisation {{< br >}}{{< br >}}  | &nbsp; |
-| C12 | &nbsp; | Student projects & performances | &nbsp; |
-| C13 | &nbsp; |  {{< br >}}{{< br >}} Student projects & performances {{< br >}}{{< br >}} Wrap-Up {{< br >}}{{< br >}}  |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+INSTRUCTORS
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Week #1**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C1
+{{< tdclose >}}
+{{< tdopen >}}
+Martin Marks
+{{< tdclose >}}
+{{< tdopen >}}
+Overview, getting acquainted, the syllabus, concerts, student projects
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C2
+{{< tdclose >}}
+{{< tdopen >}}
+Marcus Thompson
+{{< tdclose >}}
+{{< tdopen >}}
+Class discussion
+{{< tdclose >}}
+{{< tdopen >}}
+Student projects organized
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Open rehearsals for concert 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Forum 1: Time as shape
+
+Michael Cuthbert (musicology, moderator)
+
+Robert Jaffe (physics)
+
+Libby Larson (composer)
+
+Sara Brown (scenic design)
+
+### Concert 1
+
+Andrew Imbrie, _serenade for flute, viola, and piano_
+
+Libby Larsen, _Black Birds, Red Hills_
+
+George Crumb, E_leven Echoes of Autumn_
+
+Maurice Ravel, _Piano Trio in A Minor_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Week #2**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C3
+{{< tdclose >}}
+{{< tdopen >}}
+Michael Cuthbert (Professor of Music)
+{{< tdclose >}}
+{{< tdopen >}}
+Repeating time: minimalism and the structure of Reich's _Four Organs_
+{{< tdclose >}}
+{{< tdopen >}}
+Written reponses to forum & concert 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C4
+{{< tdclose >}}
+{{< tdopen >}}
+Paul Schechter (Professor of Astrophysics)
+{{< tdclose >}}
+{{< tdopen >}}
+A physicist's understanding of the concept of spacetime
+{{< tdclose >}}
+{{< tdopen >}}
+Project proposals due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C5
+{{< tdclose >}}
+{{< tdopen >}}
+Michael Ouellette (Lecturer in Theater Arts)
+{{< tdclose >}}
+{{< tdopen >}}
+On Michael Frayn's _Copenhagen_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C6
+{{< tdclose >}}
+{{< tdopen >}}
+Donald Sadoway (Professor of Materials Science and Engineering)
+{{< tdclose >}}
+{{< tdopen >}}
+'Everything I needed to know I learned in 3.091' (using art, literature, music, and film to teach chemistry)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Open rehearsals for concert 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Forum 2: Time as Memory
+
+Bruce Brubaker (piano/contemporary music)
+
+Peter Child (composition, moderator)
+
+Deborah Stein (music theory)
+
+### Concert 2
+
+Ludwig van Beethoven, _String Trio in E-flat Major_, Op. 5
+
+Peter Child, _Skyscraper Symphony_
+
+Antonín Dvořák, _String Quartet in E-flat Major_, _Op. 97, "The American"_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Week #3**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C7
+{{< tdclose >}}
+{{< tdopen >}}
+George Ruckert (Senior Lecturer in Music)
+{{< tdclose >}}
+{{< tdopen >}}
+Measuring time: meters, cycles, and patterns in Hindustani music
+{{< tdclose >}}
+{{< tdopen >}}
+Written reponses to forum & concert 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C8
+{{< tdclose >}}
+{{< tdopen >}}
+Christopher Ariza (Visiting Professor of Music)
+{{< tdclose >}}
+{{< tdopen >}}
+Events per unit of time: density as a compositional parameter in the music and synthesis techniques of Iannis Xenakis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C9
+{{< tdclose >}}
+{{< tdopen >}}
+Stephen Tapscott (Professor of Literature)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Deeper into Muybridge: a poet's view
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R3
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Open rehearsal for concert 3
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E3
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Forum 3: Time as the Subject and Substance
+
+Ellen Harris (musicology, moderator)
+
+Lewis Lockwood (musicology)
+
+Paul Matisse (sculptor)
+
+Stephen Tapscott (poet)
+
+### Concert 3
+
+W. A. Mozart, _Oboe Quartet in F Major, K. 370_
+
+Charles Loeffler, _Two Rhapsodies for Oboe, Viola, and Piano_
+
+William Grant Still, _suite for violin and piano_
+
+Lukas Foss, T_ime Cycle_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Week #4**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Charles Shadle
+
+(Senior Lecturer in
+
+Music)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Time and structure in a film score for D. W. Griffith's _Ramona_ (1910)
+{{< tdclose >}}
+{{< tdopen >}}
+Written reponses to forum & concert 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Mark Harvey
+
+(Lecturer in Music)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In the moment: jazz time and improvisation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C12
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Student projects & performances
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C13
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Student projects & performances
+
+Wrap-Up
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

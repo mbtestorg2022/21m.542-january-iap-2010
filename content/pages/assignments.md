@@ -31,12 +31,63 @@ Please submit your responses to the forums and the concerts no later than the fo
 
 ### Sample Student Work
 
-| STUDENTS | FORUM & CONCERT RESPONSES |
-| --- | --- |
-| #1 | #2 | #3 |
-| --- | --- | --- |
-| Warren Chan | ([PDF]({{< baseurl >}}/resources/mit21m_542iap10_resp1_wc)) | ([PDF]({{< baseurl >}}/resources/mit21m_542iap10_resp2_wc)) | ([PDF]({{< baseurl >}}/resources/mit21m_542iap10_resp3_wc)) |
-| Jared Sadoian | ([PDF]({{< baseurl >}}/resources/mit21m_542iap10_resp1_js)) | ([PDF]({{< baseurl >}}/resources/mit21m_542iap10_resp2_js)) | ([PDF]({{< baseurl >}}/resources/mit21m_542iap10_resp3_js)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+STUDENTS
+{{< thclose >}}
+{{< thopen >}}
+FORUM & CONCERT RESPONSES
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+#1
+{{< thclose >}}
+{{< thopen >}}
+#2
+{{< thclose >}}
+{{< thopen >}}
+#3
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Warren Chan
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_542iap10_resp1_wc))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_542iap10_resp2_wc))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_542iap10_resp3_wc))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Jared Sadoian
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_542iap10_resp1_js))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_542iap10_resp2_js))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_542iap10_resp3_js))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 **Project Presentations**
 -------------------------
@@ -53,7 +104,36 @@ Please choose a topic and submit your proposal online no later than 5 p.m after 
 
 ### Sample Student Work
 
-| PROJECTS | PRESENTATIONs |
-| --- | --- |
-| "Notation and Time in Music," by Jared Sadoian | See the [Class 12]({{< baseurl >}}/pages/classroom-sessions/class-12) video |
-| "Current research on music & the brain" by anonymous MIT student | Slides ([PDF]({{< baseurl >}}/resources/mit21m_542iap10_project2))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROJECTS
+{{< thclose >}}
+{{< thopen >}}
+PRESENTATIONs
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Notation and Time in Music," by Jared Sadoian
+{{< tdclose >}}
+{{< tdopen >}}
+See the [Class 12]({{< baseurl >}}/pages/classroom-sessions/class-12) video
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Current research on music & the brain" by anonymous MIT student
+{{< tdclose >}}
+{{< tdopen >}}
+Slides ([PDF]({{< baseurl >}}/resources/mit21m_542iap10_project2))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
