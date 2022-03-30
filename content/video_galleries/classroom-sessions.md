@@ -198,7 +198,7 @@ C8
 Christopher Ariza (Visiting Professor of Music)
 {{< tdclose >}}
 {{< tdopen >}}
-Events per unit of time: density as a compositional parameter in the music and synthesis techniques of Iannis Xenakis ([PDF - 1.1MB](/courses/music-and-theater-arts/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/classroom-sessions/MIT21M_542IAP10_c8_ariza.pdf)) (Courtesy of Christopher Ariza. Used with permission.)
+Events per unit of time: density as a compositional parameter in the music and synthesis techniques of Iannis Xenakis ({{% resource_link "338aff91-a50c-f939-d785-7fe9ac4aec13" "PDF - 1.1MB" %}}) (Courtesy of Christopher Ariza. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -233,7 +233,7 @@ Deeper into Muybridge: a poet's view
 {{< tdopen >}}
 
 
-Two poems from Muybridge ([PDF](/courses/music-and-theater-arts/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/classroom-sessions/MIT21M_542IAP10_tap_poems.pdf))
+Two poems from Muybridge ({{% resource_link "9060c074-f5e3-28d4-5a4d-a7f2f8c1d0af" "PDF" %}})
 
 Wikipedia: [Eadweard Muybridge](http://en.wikipedia.org/wiki/Eadweard_Muybridge)
 
